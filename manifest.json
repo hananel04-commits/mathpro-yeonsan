@@ -1,0 +1,542 @@
+[
+  {
+    "set": "c02-1",
+    "odd": 101,
+    "even": 102,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/101.html",
+    "image": "c02-1/101.png",
+    "html": "c02-1/101.html",
+    "crop": [
+      35.1,
+      84.46,
+      257.56,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 103,
+    "even": 104,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/103.html",
+    "image": "c02-1/103.png",
+    "html": "c02-1/103.html",
+    "crop": [
+      35.1,
+      202.095,
+      257.56,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 105,
+    "even": 106,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/105.html",
+    "image": "c02-1/105.png",
+    "html": "c02-1/105.html",
+    "crop": [
+      35.1,
+      320.331,
+      257.56,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 107,
+    "even": 108,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/107.html",
+    "image": "c02-1/107.png",
+    "html": "c02-1/107.html",
+    "crop": [
+      35.1,
+      438.687,
+      257.56,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 109,
+    "even": 110,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/109.html",
+    "image": "c02-1/109.png",
+    "html": "c02-1/109.html",
+    "crop": [
+      35.1,
+      556.9219999999999,
+      257.56,
+      675.678
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 111,
+    "even": 112,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/111.html",
+    "image": "c02-1/111.png",
+    "html": "c02-1/111.html",
+    "crop": [
+      257.56,
+      84.46,
+      479.9,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 113,
+    "even": 114,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/113.html",
+    "image": "c02-1/113.png",
+    "html": "c02-1/113.html",
+    "crop": [
+      257.56,
+      202.095,
+      479.9,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 115,
+    "even": 116,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/115.html",
+    "image": "c02-1/115.png",
+    "html": "c02-1/115.html",
+    "crop": [
+      257.56,
+      320.331,
+      479.9,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-1",
+    "odd": 117,
+    "even": 118,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-1/117.html",
+    "image": "c02-1/117.png",
+    "html": "c02-1/117.html",
+    "crop": [
+      257.56,
+      438.687,
+      479.9,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 201,
+    "even": 202,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/201.html",
+    "image": "c02-2/201.png",
+    "html": "c02-2/201.html",
+    "crop": [
+      35.1,
+      84.46,
+      263.31,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 203,
+    "even": 204,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/203.html",
+    "image": "c02-2/203.png",
+    "html": "c02-2/203.html",
+    "crop": [
+      35.1,
+      202.095,
+      263.31,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 205,
+    "even": 206,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/205.html",
+    "image": "c02-2/205.png",
+    "html": "c02-2/205.html",
+    "crop": [
+      35.1,
+      320.331,
+      263.31,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 207,
+    "even": 208,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/207.html",
+    "image": "c02-2/207.png",
+    "html": "c02-2/207.html",
+    "crop": [
+      35.1,
+      438.687,
+      263.31,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 209,
+    "even": 210,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/209.html",
+    "image": "c02-2/209.png",
+    "html": "c02-2/209.html",
+    "crop": [
+      35.1,
+      556.9219999999999,
+      263.31,
+      675.678
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 211,
+    "even": 212,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/211.html",
+    "image": "c02-2/211.png",
+    "html": "c02-2/211.html",
+    "crop": [
+      263.31,
+      84.46,
+      479.9,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 213,
+    "even": 214,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/213.html",
+    "image": "c02-2/213.png",
+    "html": "c02-2/213.html",
+    "crop": [
+      263.31,
+      202.095,
+      479.9,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 215,
+    "even": 216,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/215.html",
+    "image": "c02-2/215.png",
+    "html": "c02-2/215.html",
+    "crop": [
+      263.31,
+      320.331,
+      479.9,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c02-2",
+    "odd": 217,
+    "even": 218,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c02-2/217.html",
+    "image": "c02-2/217.png",
+    "html": "c02-2/217.html",
+    "crop": [
+      263.31,
+      438.687,
+      479.9,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 101,
+    "even": 102,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/101.html",
+    "image": "c03-1/101.png",
+    "html": "c03-1/101.html",
+    "crop": [
+      32.225,
+      84.46,
+      254.805,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 103,
+    "even": 104,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/103.html",
+    "image": "c03-1/103.png",
+    "html": "c03-1/103.html",
+    "crop": [
+      32.225,
+      202.095,
+      254.805,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 105,
+    "even": 106,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/105.html",
+    "image": "c03-1/105.png",
+    "html": "c03-1/105.html",
+    "crop": [
+      32.225,
+      320.331,
+      254.805,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 107,
+    "even": 108,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/107.html",
+    "image": "c03-1/107.png",
+    "html": "c03-1/107.html",
+    "crop": [
+      32.225,
+      438.687,
+      254.805,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 109,
+    "even": 110,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/109.html",
+    "image": "c03-1/109.png",
+    "html": "c03-1/109.html",
+    "crop": [
+      32.225,
+      556.9219999999999,
+      254.805,
+      675.678
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 111,
+    "even": 112,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/111.html",
+    "image": "c03-1/111.png",
+    "html": "c03-1/111.html",
+    "crop": [
+      254.805,
+      84.46,
+      482.775,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 113,
+    "even": 114,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/113.html",
+    "image": "c03-1/113.png",
+    "html": "c03-1/113.html",
+    "crop": [
+      254.805,
+      202.095,
+      482.775,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 115,
+    "even": 116,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/115.html",
+    "image": "c03-1/115.png",
+    "html": "c03-1/115.html",
+    "crop": [
+      254.805,
+      320.331,
+      482.775,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-1",
+    "odd": 117,
+    "even": 118,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-1/117.html",
+    "image": "c03-1/117.png",
+    "html": "c03-1/117.html",
+    "crop": [
+      254.805,
+      438.687,
+      482.775,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 201,
+    "even": 202,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/201.html",
+    "image": "c03-2/201.png",
+    "html": "c03-2/201.html",
+    "crop": [
+      32.225,
+      84.46,
+      257.56,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 203,
+    "even": 204,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/203.html",
+    "image": "c03-2/203.png",
+    "html": "c03-2/203.html",
+    "crop": [
+      32.225,
+      202.095,
+      257.56,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 205,
+    "even": 206,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/205.html",
+    "image": "c03-2/205.png",
+    "html": "c03-2/205.html",
+    "crop": [
+      32.225,
+      320.331,
+      257.56,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 207,
+    "even": 208,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/207.html",
+    "image": "c03-2/207.png",
+    "html": "c03-2/207.html",
+    "crop": [
+      32.225,
+      438.687,
+      257.56,
+      557.322
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 209,
+    "even": 210,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/209.html",
+    "image": "c03-2/209.png",
+    "html": "c03-2/209.html",
+    "crop": [
+      32.225,
+      556.9219999999999,
+      257.56,
+      675.678
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 211,
+    "even": 212,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/211.html",
+    "image": "c03-2/211.png",
+    "html": "c03-2/211.html",
+    "crop": [
+      257.56,
+      84.46,
+      482.775,
+      202.49499999999998
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 213,
+    "even": 214,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/213.html",
+    "image": "c03-2/213.png",
+    "html": "c03-2/213.html",
+    "crop": [
+      257.56,
+      202.095,
+      482.775,
+      320.731
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 215,
+    "even": 216,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/215.html",
+    "image": "c03-2/215.png",
+    "html": "c03-2/215.html",
+    "crop": [
+      257.56,
+      320.331,
+      482.775,
+      439.087
+    ],
+    "qr_decoded": true
+  },
+  {
+    "set": "c03-2",
+    "odd": 217,
+    "even": 218,
+    "url": "https://hananel04-commits.github.io/mathpro-yeonsan/c03-2/217.html",
+    "image": "c03-2/217.png",
+    "html": "c03-2/217.html",
+    "crop": [
+      257.56,
+      438.687,
+      482.775,
+      557.322
+    ],
+    "qr_decoded": true
+  }
+]
